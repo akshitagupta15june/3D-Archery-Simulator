@@ -11,15 +11,15 @@ We are not allowed to go outside and play with friends during this pandemic, so 
 
 Instructions for the most enjoyable gameplay!
 
->> Move the mouse to look around
+>> Move the cursor(mouse) to look around.
 
->> Click once to shoot an arrow
+>> Left Click once to shoot an arrow from a bow.
 
->> Use the "r" key to toggle full-screen (may cause rendering issues)
+>> Use the "r" key to toggle full-screen.
 
->>Use the "e" key to toggle sidebars
+>> Use the "e" key to toggle sidebars.
 
->>Try to get all 6 targets!
+>> Score all 6 targets!
 
 ## How we built it
 
