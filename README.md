@@ -1,5 +1,8 @@
 Play the game at https://akshitagupta15june.github.io/3D-Archery-Simulator/
 
+
+<img src="https://github.com/akshitagupta15june/3D-Archery-Simulator/blob/main/archery.jpg" width=400 height=300>
+
 ## Inspiration
 
 We are not allowed to go outside and play with friends during this pandemic, so why not protect ourselves at home and feel like we are playing outside. 3D simulator of archery game will help you to enjoy playing like you are shooting in real.
